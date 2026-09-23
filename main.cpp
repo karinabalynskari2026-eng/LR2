@@ -24,7 +24,7 @@ int main()
          1.0 / 4.0 * sin((5.0 / 2.0) * Pi - 8 * a);
 
     cout << endl;
-    cout << "z1 = " << z1 << endl;
+    cout << "z1 = " << z1 << endl; // зміна 1
     cout << "z2 = " << z2 << endl;
 
     cin.get();
